@@ -1,0 +1,212 @@
+[
+  {
+    "name": "BMI Prediction",
+    "desc": "To develop a machine learning-based model that predicts Body Mass Index (BMI) trends and analyzes the differences in BMI patterns before and after the COVID-19 pandemic.",
+    "image": "bmi",
+    "category": "ml-data",
+    "links": {
+      "view": "https://bmi-gngr.onrender.com/",
+      "code": "https://github.com/kunalshinde1214/PracticeBMI"
+    }
+  },
+  {
+    "name": "Digital Library",
+    "desc": "All in one library resources. Built using Python, Django, SQLite.",
+    "image": "digitallibrary",
+    "category": "python",
+    "links": {
+      "view": "https://dl-i9ho.onrender.com/",
+      "code": "https://github.com/kunalshinde1214/Digital-Library"
+    }
+  },
+  {
+    "name": "FastTag Fraud Detection System",
+    "desc": "A Python-based simulation of an automated toll collection system using FastTag-like technology.",
+    "image": "fasttag",
+    "category": "ml-data",
+    "links": {
+      "view": "https://github.com/kunalshinde1214/ML-Practice/tree/main/FastTag",
+      "code": "https://github.com/kunalshinde1214/ML-Practice/tree/main/FastTag"
+    }
+  },
+  {
+    "name": "Startup Investment Analysis",
+    "desc": " This project focuses on deep-diving into startup investment data to uncover insights about funding patterns, popular industries, investor behavior investment trends.",
+    "image": "startup",
+    "category": "ml-data",
+    "links": {
+      "view": "https://github.com/kunalshinde1214/ML-Practice/blob/main/Startup",
+      "code": "https://github.com/kunalshinde1214/ML-Practice/blob/main/Startup"
+    }
+  },
+  {
+    "name": "Attendance System",
+    "desc": "A Flask-based web application for tracking student attendance, calculating attendance percentages, and providing alerts for students below the required threshold.",
+    "image": "attendance",
+    "category": "python",
+    "links": {
+      "view": "https://attendence-system-ent6.onrender.com",
+      "code": "https://github.com/kunalshinde1214/Attendence_System"
+    }
+  },
+  {
+    "name": "Data Encoding visualizer",
+    "desc": "Data-Encoding-Visualiser is a web-based tool designed to provide interactive visualizations for encoding techniques such as Manchester, Differential Manchester, and more.",
+    "image": "encoding",
+    "category": "basicweb",
+    "links": {
+      "view": "https://encodingtechniques.netlify.app/",
+      "code": "https://github.com/kunalshinde1214/Data-Encoding-Visualiser"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Build A Music Player using Spotify API and ReactJS. It has all the major features like play, pause, next, previous, shuffle and repeat.",
+    "image": "reactproject",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Stock Tracker",
+    "desc": "Stock Tracker is application build using Streamlit and Stock API. It provides the feature to track stock prices.",
+    "image": "stocktracker",
+    "category": "python",
+    "links": {
+      "view": "https://kunalstockapi.streamlit.app/",
+      "code": "https://github.com/kunalshinde1214/Streamlit_API"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/kunalshinde1214"
+    }
+  },
+  {
+    "name": "Yash Website",
+    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
+    "image": "yash",
+    "category": "basicweb",
+    "links": {
+      "view": "https://yashenterprises.netlify.app/",
+      "code": "https://github.com/kunalshinde1214/Web-Development/tree/main/YashEnterprises"
+    }
+  },
+  {
+    "name": "Food Website",
+    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Global Cybersecurity",
+    "desc": "Analyzes global cybersecurity threats, incidents, and trends.Personalized and Responsive using PowerBI.",
+    "image": "global",
+    "category": "analysis",
+    "links": {
+      "view": "https://github.com/kunalshinde1214/PowerBI/blob/main/Global_Cybersecurity/global%20cyber.pdf",
+      "code": "https://github.com/kunalshinde1214/PowerBI/tree/main/Global_Cybersecurity"
+    }
+  },
+  {
+    "name": "HR Analysis",
+    "desc": "Examines human resources data to uncover patterns in employee demographics, performance, and retention. Developed By Using Live PowerBI.",
+    "image": "hr",
+    "category": "analysis",
+    "links": {
+      "view": "https://github.com/kunalshinde1214/PowerBI/blob/main/HR%20Analysis/P2.pdf",
+      "code": "https://github.com/kunalshinde1214/PowerBI/tree/main/HR%20Analysis"
+    }
+  },
+  {
+    "name": "Hotels Revenue Insights",
+    "desc": "Focuses on revenue metrics within the hospitality industry. Identifies key factors influencing hotel revenue and occupancy rates.Using PowerBI",
+    "image": "hotel",
+    "category": "analysis",
+    "links": {
+      "view": "https://github.com/kunalshinde1214/PowerBI/blob/main/Hotels%20Revenue%20Insights/Hotels%20Revenue%20Insights.pdf",
+      "code": "https://github.com/kunalshinde1214/PowerBI/tree/main/Hotels%20Revenue%20Insights"
+    }
+  },
+  {
+    "name": "SalesStore",
+    "desc": "Analyzes retail sales data to forecast trends and understand customer behavior.Utilizes time series analysis for accurate sales forecasting.",
+    "image": "supersales",
+    "category": "analysis",
+    "links": {
+      "view": "https://github.com/kunalshinde1214/PowerBI/blob/main/SalesStore/p1.pdf",
+      "code": "https://github.com/kunalshinde1214/PowerBI/tree/main/SalesStore"
+    }
+  },
+  {
+    "name": "Sales Analysis",
+    "desc": "Sales analysis is the process of examining and evaluating sales data to gain insights into the performance of a company’s products or services.",
+    "image": "salesana",
+    "category": "analysis",
+    "links": {
+      "view": "https://github.com/kunalshinde1214/Sales-Analysis/blob/main/Sales.pdf",
+      "code": "https://github.com/kunalshinde1214/Sales-Analysis"
+    }
+  },
+  {
+    "name": "EDA-Basics",
+    "desc": "A hands-on project showcasing the core techniques of Exploratory Data Analysis (EDA) using Python, covering data cleaning, outlier detection, visualization, and feature exploration across multiple real-world datasets.",
+    "image": "eda",
+    "category": "analysis",
+    "links": {
+      "view": "https://eda-basics.netlify.app/",
+      "code": "https://github.com/kunalshinde1214/EDA-Basics"
+    }
+  },
+  {
+    "name": "Carbon Emission Data Analysis",
+    "desc": "A visualization project that explores carbon emissions data from 2008 to 2024, providing insights into indian carbon emission trends and patterns in carbon emissions over time.",
+    "image": "carbon",
+    "category": "analysis",
+    "links": {
+      "view": "https://github.com/kunalshinde1214/PowerBI/blob/main/Carbon%20Emission%20India/Carbon%20emission.pdf",
+      "code": "https://github.com/kunalshinde1214/PowerBI/tree/main/Carbon%20Emission%20India"
+    }
+  },
+  {
+    "name": "Mock1",
+    "desc": "temporary project for testing purpose",
+    "image": "mock",
+    "category": "analysis",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Mock2",
+    "desc": "temporary project for testing purpose",
+    "image": "mock",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Mock3",
+    "desc": "temporary project for testing purpose",
+    "image": "mock",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
