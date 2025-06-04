@@ -38,21 +38,38 @@ $(document).ready(function () {
     });
 
     // <!-- emailjs to mail contact form data -->
-    $("#contact-form").submit(function (event) {
-        emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
+    // $("#contact-form").submit(function (event) {
+    //     emailjs.init("1RXIbNbF0q9LX-4j6");
 
-        emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
-            .then(function (response) {
-                console.log('SUCCESS!', response.status, response.text);
-                document.getElementById("contact-form").reset();
-                alert("Form Submitted Successfully");
-            }, function (error) {
-                console.log('FAILED...', error);
-                alert("Form Submission Failed! Try Again");
-            });
-        event.preventDefault();
-    });
+    //     emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
+    //         .then(function (response) {
+    //             console.log('SUCCESS!', response.status, response.text);
+    //             document.getElementById("contact-form").reset();
+    //             alert("Form Submitted Successfully");
+    //         }, function (error) {
+    //             console.log('FAILED...', error);
+    //             alert("Form Submission Failed! Try Again");
+    //         });
+    //     event.preventDefault();
+    // });
     // <!-- emailjs to mail contact form data -->
+
+    //   <!-- EmailJS SDK -->
+       
+            // Initialize EmailJS with your public key
+            emailjs.init("1RXIbNbF0q9LX-4j6"); // Example: user_TTDmetQLYgWCLzHTDgqxm
+
+            // Form submit handler
+            document.getElementById("contact-form").addEventListener("submit", function (e) {
+            e.preventDefault();
+
+            emailjs.sendForm("service_3tdke7k", "template_ztihf36", this)
+                .then(function () {
+                alert("Message sent successfully!");
+                }, function (error) {
+                alert("Failed to send message | Try Again:\n" + JSON.stringify(error));
+                });
+            });
 
 });
 
