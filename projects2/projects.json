@@ -75,7 +75,7 @@
     "image": "reactproject1",
     "category": "basicweb",
     "links": {
-      "view": "#",
+      "view": "https://claude.ai/public/artifacts/6b744df6-3a29-49ba-b2f9-26aee97bdfd9",
       "code": "https://github.com/kunalshinde1214/React/"
     }
   },
@@ -95,8 +95,8 @@
     "image": "portfolio1",
     "category": "basicweb",
     "links": {
-      "view": "#",
-      "code": "https://github.com/kunalshinde1214"
+      "view": "https://kunalshinde.netlify.app/",
+      "code": "https://github.com/kunalshinde1214/Portfolio"
     }
   },
   {
