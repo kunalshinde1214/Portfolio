@@ -60,13 +60,23 @@
     }
   },
   {
-    "name": "React-Projects",
+    "name": "Music Player",
     "desc": "Build A Music Player using Spotify API and ReactJS. It has all the major features like play, pause, next, previous, shuffle and repeat.",
     "image": "reactproject",
     "category": "basicweb",
     "links": {
       "view": "#",
       "code": "#"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Build A Project link website using ReactJS. It has all the major features like grid, sort.",
+    "image": "reactproject1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/kunalshinde1214/React/"
     }
   },
   {
