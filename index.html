@@ -405,17 +405,11 @@
 
 <!-- ==== ALL MAJOR JAVASCRIPT CDNS ENDS ==== -->
 <script>
-    // Vercel injects these at build time
-    const BOT_TOKEN = import.meta.env.VITE_NEXT_PUBLIC_BOT_TOKEN || "YOUR_FALLBACK_BOT_TOKEN";
-    const CHAT_ID = import.meta.env.VITE_NEXT_PUBLIC_CHAT_ID || "YOUR_FALLBACK_CHAT_ID";
-
-    const visitorIP = "Unknown"; // Optional: you can use free IP APIs if needed
-
-    fetch(`https://api.telegram.org/bot${BOT_TOKEN}/sendMessage?chat_id=${CHAT_ID}&text=New visitor at ${new Date().toLocaleString()} (IP: ${visitorIP})`)
-      .then(res => res.json())
-      .then(data => console.log("Notification sent:", data))
-      .catch(err => console.error("Error:", err));
-  </script>
+  fetch("/api/notify")
+    .then(res => res.json())
+    .then(data => console.log("Notification sent:", data))
+    .catch(err => console.error("Error:", err));
+</script>
 <script src="./assets/js/script.js"></script>
 
 </body>
